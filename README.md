@@ -51,7 +51,6 @@ Student Record Hub is a Django-based web application for managing student record
 - Access the admin panel at `/admin`.
 
 ## Project Structure
-
 ```
 StdRecHub/
 ├── Myapp/  # Main Django app
@@ -81,10 +80,5 @@ StdRecHub/
 README.md
 ```
 
-## Contributing
-Feel free to fork the repository and submit pull requests.
-
-## License
-This project is licensed under the MIT License.
 
 
